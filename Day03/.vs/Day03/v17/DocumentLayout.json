@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|c:\\users\\user\\desktop\\day03linq\u0026ef\\day03\\day03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|solutionrelative:day03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|c:\\users\\user\\desktop\\day03linq\u0026ef\\day03\\day03\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|solutionrelative:day03\\configurations\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|c:\\users\\user\\desktop\\day03linq\u0026ef\\day03\\day03\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|solutionrelative:day03\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|c:\\users\\user\\desktop\\day03linq\u0026ef\\day03\\day03\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85DE3A7-CED5-4D57-9CF3-B9B470861363}|Day03\\Day03.csproj|solutionrelative:day03\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Day03\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "Day03\\DbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:17:25.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\Configurations\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "Day03\\Configurations\\ProjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\Configurations\\ProjectConfiguration.cs",
+              "RelativeToolTip": "Day03\\Configurations\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:15:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Day03\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\Models\\Project.cs",
+              "RelativeToolTip": "Day03\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:14:11.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\Program.cs",
+              "RelativeDocumentMoniker": "Day03\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Day03Linq\u0026EF\\Day03\\Day03\\Program.cs",
+              "RelativeToolTip": "Day03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T12:09:19.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
