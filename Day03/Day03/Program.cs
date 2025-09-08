@@ -13,7 +13,6 @@ namespace Day03
 
             using (var context = new AppDbContext(optionsBuilder.Options))
             {
-
                 context.Database.EnsureCreated();
 
                 Console.WriteLine("Database created successfully!");
@@ -21,7 +20,6 @@ namespace Day03
                 Console.WriteLine("- Id: Primary Key with Identity (10,10)");
                 Console.WriteLine("- Name: varchar(50), Required, Default='OurProject'");
                 Console.WriteLine("- Cost: Money datatype");
-
 
                 var project = new Project
                 {
@@ -33,6 +31,8 @@ namespace Day03
                 context.SaveChanges();
 
                 Console.WriteLine($"Project added with Id: {project.Id}");
+                Console.WriteLine($"Project Name: {project.Name}");
+                Console.WriteLine($"Project Cost: {project.Cost}");
             }
         }
     }
